@@ -5,5 +5,4 @@ Use ES6 features, webpack and babel.
 
 API used: https://www.food2fork.com/about/api
 
-Udemy Course reference: https://www.udemy.com/the-complete-javascript-course/
 
